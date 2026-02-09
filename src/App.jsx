@@ -46,7 +46,7 @@ function App() {
     {
       name: 'CampusCore',
       desc: 'Unified student hub with dynamic theming and routine generation.',
-      link: 'https://campus-core-sandy.vercel.app/',
+      link: 'https://campus-core-seven.vercel.app/',
       tech: 'React • Logic',
     },
     {
